@@ -13,8 +13,8 @@ puts do_the_shuffle(input)
 
 
 # Read the input
-print 'Enter some text to shuffle: '
+print '\nEnter some text to shuffle: '
 input = gets
 
 puts "\nResult: "
-print do_the_shuffle(input)
+puts do_the_shuffle(input)
